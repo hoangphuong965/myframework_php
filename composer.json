@@ -1,0 +1,13 @@
+{
+    "name": "admin/framework",
+    "description": "A simple PHP framework for building web application",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hoangphuong965",
+            "email": "hoangphuong965@gmail.com"
+        }
+    ],
+    "require": {}
+}
